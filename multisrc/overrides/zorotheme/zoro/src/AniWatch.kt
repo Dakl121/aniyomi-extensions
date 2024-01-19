@@ -8,7 +8,7 @@ import eu.kanade.tachiyomi.multisrc.zorotheme.ZoroTheme
 class AniWatch : ZoroTheme(
     "en",
     "AniWatch",
-    "https://aniwatch.to",
+    "https://aniwatch.nz",
 ) {
     override val id = 6706411382606718900L
 
